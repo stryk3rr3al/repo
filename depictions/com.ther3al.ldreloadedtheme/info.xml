@@ -10,14 +10,13 @@
 	<shortDescription>A contorl center module theme.</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		This theme changes the Conrol Center LDRestart module<br/> 
-		for CC modules.
+		This theme changes the Conrol Center LDRestart module for CC modules.
+		
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is the amazing icon!</description>
 			<image>IMG_0656.jpg</image>
 		</screenshot>			
 	</screenshots>
