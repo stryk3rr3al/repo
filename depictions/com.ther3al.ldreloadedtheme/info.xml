@@ -11,8 +11,9 @@
 	<descriptionlist>
 		<description><![CDATA[
 		This theme changes the Conrol Center LDRestart module for CC modules.<br/>
-		Note: This theme will need to be reinstalled if CC Modules is update/ reinstalled.<br/>
-		this is because this theme is applied with a static file change. 
+		<br/>
+		Note: This theme will need to be reinstalled if CC Modules is update/ reinstalled.
+		This is because this theme is applied with a static file change. 
 		
 		]]>
 		</description>
