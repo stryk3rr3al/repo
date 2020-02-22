@@ -21,6 +21,6 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change> V1.1 -Added the corrosponding settings icon to go with the Control Center toggle.</change>
 	</changelog>
 </package>
