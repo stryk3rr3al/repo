@@ -7,16 +7,11 @@
 			<miniOS>10.2</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package></package>
-	</dependencies>
-	<shortDescription></shortDescription>
+	<shortDescription>A contorl center module theme.</shortDescription>
 	<descriptionlist>
-		<description></description>
-		<description></description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		This theme changes the Conrol Center LDRestart module<br/> 
+		for CC modules.
 		]]>
 		</description>
 	</descriptionlist>
