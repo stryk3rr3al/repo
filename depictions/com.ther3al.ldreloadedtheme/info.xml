@@ -1,0 +1,32 @@
+<package>
+	<id>com.ther3al.ldreloadedtheme</id>
+	<name>LDReloaded Theme</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is the amazing icon!</description>
+			<image>LDReloaded Theme.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>
